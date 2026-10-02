@@ -10,15 +10,15 @@ I turn market and company data into go-to-market, investment and growth strategi
 
 ## 🎯 Fields I'm Exploring
 
-💳 **Fintech** · 📊 **Strategy & Operations** · 🌱 **Energy & Sustainability** · 🛍️ **Consumer Brands** · 🔍 **Market Research**
+ **Fintech** · **Strategy & Operations** ·  **Energy & Sustainability** ·  **Consumer Brands** ·  **Market Research**
 
 ---
 
 ## 🔭 Now
 
-- 🐍 **Python for Business Analytics**: learning through my Master's at IE
-- 🗄️ **SQL**: learning to query and structure business data
-- 🧪 **First data project**: market research and growth analysis (in progress)
+-  **Python for Business Analytics**: learning through my Master's at IE
+-  **SQL**: learning to query and structure business data
+-  **First data project**: market research and growth analysis (in progress)
 
 ---
 
@@ -26,9 +26,9 @@ I turn market and company data into go-to-market, investment and growth strategi
 
 Real-world work, before the code:
 
-- 🌍 **Nomad**: market research and Looker analysis behind a go-to-market campaign that beat comparable content by 54%; now live in Lisbon
-- ⚡ **Veolia Future Energy**: biomethane and renewable-energy trend research informing M&A strategy
-- 🏦 **J.P. Morgan × IE Social Innovation Center**: digital-transformation research for 106 small business owners
+-  **Nomad**: market research and Looker analysis behind a go-to-market campaign that beat comparable content by 54%; now live in Lisbon
+-  **Veolia Future Energy**: biomethane and renewable-energy trend research informing M&A strategy
+-  **J.P. Morgan × IE Social Innovation Center**: digital-transformation research for 106 small business owners
 
 ---
 
